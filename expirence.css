@@ -1,0 +1,53 @@
+/* expirence.css - Custom styles for Experience page */
+
+body.body_section {
+    background-color: #f8f9fa;
+}
+
+.Heading h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: #343a40;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.card {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #007bff;
+}
+
+.card-subtitle {
+    font-size: 1.1rem;
+    color: #6c757d;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #212529;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+.footer {
+    background: #343a40;
+    color: #fff;
+    padding: 15px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.wave {
+    color: #007bff;
+}
