@@ -74,6 +74,33 @@ h3, h4, h5, h6 {
     background-color: #f1f1f1;
   }
 
+  .navbar {
+    padding: 0.75rem 0;
+  }
+
+  .navbar-collapse {
+    z-index: 1030;
+  }
+
+  @media (max-width: 991px) {
+    .navbar-collapse {
+      background: rgba(255, 255, 255, 0.98);
+      padding: 1rem;
+      border-radius: 0.75rem;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+      margin-top: 0.5rem;
+    }
+
+    .navbar-nav {
+      width: 100%;
+    }
+
+    .headerachor {
+      display: block;
+      padding: 0.45rem 0.25rem;
+    }
+  }
+
   /* Section 1 */
    .column1{
        background-image: linear-gradient(#fefcfe,#ffffff);
