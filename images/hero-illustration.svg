@@ -1,0 +1,12 @@
+<svg width="600" height="420" viewBox="0 0 600 420" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="420" rx="30" fill="#f5f7ff"/>
+  <rect x="80" y="80" width="440" height="260" rx="24" fill="#ffffff" stroke="#dfe6ff" stroke-width="3"/>
+  <rect x="120" y="120" width="180" height="130" rx="20" fill="#5b6cff"/>
+  <rect x="330" y="120" width="140" height="100" rx="16" fill="#eef2ff"/>
+  <rect x="330" y="240" width="140" height="60" rx="16" fill="#dbe4ff"/>
+  <circle cx="185" cy="185" r="40" fill="#ffd9b3"/>
+  <rect x="150" y="220" width="70" height="90" rx="20" fill="#2f3e5b"/>
+  <rect x="160" y="250" width="50" height="70" rx="16" fill="#4a5a7a"/>
+  <path d="M125 290c20-35 40-50 60-50 20 0 40 15 60 50" fill="none" stroke="#2f3e5b" stroke-width="8" stroke-linecap="round"/>
+  <text x="300" y="340" text-anchor="middle" font-family="Segoe UI, Arial" font-size="26" fill="#2f3e5b">Sanket Thok</text>
+</svg>
