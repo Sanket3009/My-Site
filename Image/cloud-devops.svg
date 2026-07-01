@@ -1,0 +1,13 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration of a cloud with a deployment pipeline">
+  <path d="M120 170c-28 0-50-21-50-47 0-24 18-44 41-47 8-22 29-37 54-37 27 0 50 19 56 44 22 2 39 21 39 43 0 25-21 44-46 44H120z" fill="#a6a1ff"/>
+  <path d="M120 170c-28 0-50-21-50-47 0-24 18-44 41-47 8-22 29-37 54-37 27 0 50 19 56 44 22 2 39 21 39 43 0 25-21 44-46 44H120z" fill="#6c63ff" opacity="0.55"/>
+  <circle cx="90" cy="230" r="20" fill="#351458"/>
+  <circle cx="170" cy="230" r="20" fill="#351458"/>
+  <circle cx="250" cy="230" r="20" fill="#351458"/>
+  <circle cx="330" cy="230" r="20" fill="#351458"/>
+  <path d="M110 230h40M190 230h40M270 230h40" stroke="#a6a1ff" stroke-width="4"/>
+  <path d="M90 218 l-6 12 h12z" fill="#2ec866"/>
+  <path d="M170 240 l-7-13 h14z" fill="#2ec866"/>
+  <path d="M250 218 l-6 12 h12z" fill="#2ec866"/>
+  <path d="M330 240 l-7-13 h14z" fill="#2ec866"/>
+</svg>

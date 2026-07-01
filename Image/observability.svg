@@ -1,0 +1,19 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration of a monitoring dashboard with charts">
+  <rect x="40" y="40" width="320" height="220" rx="12" fill="#241040"/>
+  <rect x="40" y="40" width="320" height="34" rx="12" fill="#351458"/>
+  <circle cx="60" cy="57" r="5" fill="#ff6464"/>
+  <circle cx="76" cy="57" r="5" fill="#ffd166"/>
+  <circle cx="92" cy="57" r="5" fill="#2ec866"/>
+  <rect x="60" y="96" width="130" height="80" rx="6" fill="#2b1955"/>
+  <polyline points="68,160 90,140 108,150 128,118 150,132 172,104" fill="none" stroke="#6c63ff" stroke-width="4"/>
+  <rect x="210" y="96" width="130" height="80" rx="6" fill="#2b1955"/>
+  <rect x="222" y="140" width="14" height="28" fill="#a6a1ff"/>
+  <rect x="246" y="120" width="14" height="48" fill="#6c63ff"/>
+  <rect x="270" y="132" width="14" height="36" fill="#a6a1ff"/>
+  <rect x="294" y="110" width="14" height="58" fill="#6c63ff"/>
+  <rect x="318" y="124" width="14" height="44" fill="#a6a1ff"/>
+  <rect x="60" y="190" width="280" height="50" rx="6" fill="#2b1955"/>
+  <circle cx="80" cy="215" r="14" fill="none" stroke="#2ec866" stroke-width="5"/>
+  <text x="105" y="210" font-family="Arial" font-size="11" fill="#a6a1ff">Uptime 99.9%</text>
+  <text x="105" y="226" font-family="Arial" font-size="11" fill="#a6a1ff">Avg latency 120ms</text>
+</svg>

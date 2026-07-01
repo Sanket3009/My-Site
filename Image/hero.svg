@@ -1,0 +1,12 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration of a laptop displaying code">
+  <rect x="50" y="40" width="300" height="180" rx="14" fill="#351458"/>
+  <rect x="66" y="56" width="268" height="148" rx="6" fill="#241040"/>
+  <rect x="86" y="76" width="160" height="10" rx="3" fill="#6c63ff"/>
+  <rect x="86" y="96" width="200" height="10" rx="3" fill="#a6a1ff"/>
+  <rect x="86" y="116" width="120" height="10" rx="3" fill="#6c63ff"/>
+  <rect x="86" y="136" width="180" height="10" rx="3" fill="#a6a1ff"/>
+  <rect x="86" y="156" width="90" height="10" rx="3" fill="#6c63ff"/>
+  <path d="M30 220 L370 220 L350 248 Q200 268 50 248 Z" fill="#e9e7f7"/>
+  <circle cx="322" cy="56" r="30" fill="#6c63ff"/>
+  <text x="322" y="65" font-family="Courier New, monospace" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">&lt;/&gt;</text>
+</svg>

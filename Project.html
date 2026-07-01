@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Projects | Sanket Thok</title>
+    <link rel="icon" type="image/svg+xml" href="Image/favicon.svg">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="project.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;800&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
+    <script src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+</head>
+<body class="container-fluid body_section">
+    <div id="progress"></div>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <a class="navbar-brand brand-name" href="index.html">Sanket Thok</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item"><a class="nav-link headerachor" href="index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link headerachor" href="expirence.html">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link headerachor" href="Education.html">Education</a></li>
+                    <li class="nav-item"><a class="nav-link headerachor" href="skill.html">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link headerachor" href="Project.html">Projects</a></li>
+                    <li class="nav-item"><a class="nav-link headerachor" href="contact.html">Contact Me</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <section class="projects-section">
+        <div class="projects-heading text-center mb-5">
+            <h1>Projects</h1>
+            <p class="projects-subtitle">Things I've built</p>
+        </div>
+
+        <div class="row">
+
+            <!-- Project 1: Cloud-Based Employee Management System -->
+            <div class="col-lg-6 mb-4">
+                <div class="project-card h-100">
+                    <div class="project-card-header">
+                        <div class="project-icon-wrap">
+                            <span class="iconify" data-icon="logos:aws" data-width="38"></span>
+                        </div>
+                        <div>
+                            <h3 class="project-title">Cloud-Based Employee Management System</h3>
+                        </div>
+                    </div>
+                    <p class="project-desc">
+                        A highly available multi-tier web application to manage employee data and media assets, architected and deployed on AWS from the ground up.
+                    </p>
+                    <ul class="project-highlights">
+                        <li>Configured <strong>EC2</strong> instances for compute capacity and <strong>RDS</strong> for relational database management, ensuring data consistency.</li>
+                        <li>Leveraged <strong>S3</strong> for efficient storage of static user assets and <strong>DynamoDB</strong> for flexible NoSQL data needs.</li>
+                        <li>Implemented <strong>IAM roles</strong> for least-privilege access control across all services.</li>
+                    </ul>
+                    <div class="project-tech-stack">
+                        <span class="tech-pill">AWS</span>
+                        <span class="tech-pill">EC2</span>
+                        <span class="tech-pill">RDS</span>
+                        <span class="tech-pill">S3</span>
+                        <span class="tech-pill">DynamoDB</span>
+                        <span class="tech-pill">IAM</span>
+                    </div>
+                    <!-- Replace # below with your GitHub link if available -->
+                    <div class="project-links">
+                        <a href="#" class="project-link-btn" title="View on GitHub (add link)">
+                            <i class="fab fa-github"></i> GitHub
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Project 2: Collegify Connect -->
+            <div class="col-lg-6 mb-4">
+                <div class="project-card h-100">
+                    <div class="project-card-header">
+                        <div class="project-icon-wrap">
+                            <i class="fas fa-university fa-2x" style="color:#6c63ff"></i>
+                        </div>
+                        <div>
+                            <h3 class="project-title">Collegify Connect — University Platform</h3>
+                        </div>
+                    </div>
+                    <p class="project-desc">
+                        A full-stack centralized platform to streamline operations for university clubs and associations, improving accessibility for the entire student body.
+                    </p>
+                    <ul class="project-highlights">
+                        <li>Engineered the backend logic using <strong>Java</strong> to handle complex data relationships between clubs, members, and events.</li>
+                        <li>Used <strong>MySQL</strong> for robust relational database management.</li>
+                        <li>Designed a responsive front-end interface with <strong>HTML / CSS / JavaScript</strong>.</li>
+                    </ul>
+                    <div class="project-tech-stack">
+                        <span class="tech-pill">Java</span>
+                        <span class="tech-pill">MySQL</span>
+                        <span class="tech-pill">HTML</span>
+                        <span class="tech-pill">CSS</span>
+                        <span class="tech-pill">JavaScript</span>
+                    </div>
+                    <!-- Replace # below with your GitHub link if available -->
+                    <div class="project-links">
+                        <a href="#" class="project-link-btn" title="View on GitHub (add link)">
+                            <i class="fab fa-github"></i> GitHub
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <p class="text-center mt-2" style="color:#868e96; font-size:0.9rem;">
+            More projects coming soon. Have something interesting to build together?
+            <a href="contact.html" style="color:#6c63ff;">Get in touch &rarr;</a>
+        </p>
+    </section>
+
+    <footer class="footer">Made by <span class="wave"><b>Sanket</b></span></footer>
+</body>
+</html>
